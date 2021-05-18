@@ -1,0 +1,10 @@
+{
+  "name": "SHELL BOT by botgram",
+  "description": "SYS DEF",
+  "keywords": ["TERMINAL"],
+  "env": {
+  },
+  "website": "https://github.com/oktest145/shellbot",
+  "repository": "https://github.com/oktest145/shellbot",
+  "stack": "container"
+ }
