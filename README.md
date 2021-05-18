@@ -89,6 +89,9 @@ node server
 
 **Warning:** For SOCKS proxies, you need to use an IP address (not a DNS hostname).
 
+Added Heroku Deploy Option
+
+change bot token and owner id in 
 
 
 [Telegram bot]: https://core.telegram.org/bots
