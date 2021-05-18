@@ -91,7 +91,9 @@ node server
 
 Added Heroku Deploy Option
 
-change bot token and owner id in 
+change bot token and owner id in config.json
+just copy paste below link
+heroku.com/deploy?template=https://github.com/oktest145/shellbot/main
 
 
 [Telegram bot]: https://core.telegram.org/bots
