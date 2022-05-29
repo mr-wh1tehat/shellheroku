@@ -3,6 +3,7 @@ RUN mkdir ./app
 RUN chmod 777 ./app
 WORKDIR /app
 ENV TZ=Asia/Kolkata
+ENV PORT=$PORT
 RUN apt-get update && apt-get -y install python build-essential
 WORKDIR /app
 COPY package.json package-lock.json ./
